@@ -1,0 +1,7 @@
+Data travels across the internet in packets, which each carry a maximum of 1,500 bytes. Each packet contains a header and footer which tells computers what kind of data is in the packet, how its fits together with other data, where the data came from, and the final destination of the data.
+
+An IP address is a series of numbers that gets assigned to a computer. The DNS (Domain Name Service) is words or letters that get converted into a server's IP address, since it is easier to remember and refer to alphabetical words than memorize a series of numbers.
+
+A cookie is a small piece of data that gets sent from a website that a user visits back to their computer.
+
+The three basic parts of a URL are the protocol, the domain, and the directory/subdirectory.
