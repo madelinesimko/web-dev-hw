@@ -1,3 +1,9 @@
-Intro to web design and development 
-Spring 2019 Semester 
-Homework assignment #1 
+Intro to web design and development
+Spring 2019 Semester
+Homework assignment #1
+
+1. The internet is what we use to access the web.
+2. The internet is a wire that allows for communication between different servers. Each server has a unique IP address. When information travels across the internet it is broken down into packets. Routers are used to direct packets around the internet.
+3. Directories are used to store and organize files.
+4. VCS is a version control system which is helpful for tracking changes, making changes, and sharing/collaborating.
+5. I found it very interesting to learn how the internet actually works. 
