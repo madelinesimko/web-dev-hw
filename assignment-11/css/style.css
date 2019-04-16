@@ -1,0 +1,35 @@
+body {background-color: white; pdding: 30px}
+
+#Frame
+  {background-color: white;
+    width: 500px;
+    height: 500px;
+    border: 5px solid black;
+    z-index:1;}
+
+#Orange
+  {background-color: Orange;
+    height: 480px;
+    width: 480px;
+    left: 25px;
+    top: 25px;
+    z-index: 2;
+    position: absolute;}
+
+#Gold
+  {background-color: Gold;
+    height: 300px;
+    width: 450px;
+    left: 50px;
+    top: 50px;
+    z-index: 3;
+    position: absolute;}
+
+#Dark_Orange
+  {background-color: Gold;
+    height: 200px;
+    width: 450px;
+    left: 50px;
+    top: 400px;
+    z-index: 4;
+    position: absolute;}

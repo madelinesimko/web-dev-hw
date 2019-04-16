@@ -1,0 +1,1 @@
+Padding, margin, and borders are the three components that make up the "Box Model" in HTML. The margin is the area between the box and other elements. The border is the next element within the confines of the margin and the padding is within the border.
