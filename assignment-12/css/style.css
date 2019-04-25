@@ -60,9 +60,9 @@ header {
   background-color: #f7f2e0;
   text-align: center;
   width: 75%;
-  margin-top: 8em;
+  margin-top: 5em;
   margin-left:25%;
-  border: 5px solid #2f3d15;
+  border: 5px double #2f3d15;
 }
 .content {
   position: relative;
@@ -72,7 +72,7 @@ header {
   width: 75%;
   margin-top:1em;
   margin-left:25%;
-  border: 4px solid #2f3d15;
+  border: 5px solid #2f3d15;
 
 }
 .image {
@@ -83,7 +83,7 @@ header {
   width: 75%;
   margin-top:1em;
   margin-left:25%;
-  border: 4px solid #2f3d15;
+  border: 5px solid #2f3d15;
 img {
   width:auto;
   height: 100%
