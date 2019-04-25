@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Amiri');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+p {
+  font-family: 'Amiri',serif;
+}
+h1, header {
+  font-family: 'Merriweather', serif;
+}
