@@ -25,7 +25,7 @@ body {
   }
 
   .menu a {
-    color: white;
+    color: #black;
     text-decoration: none;
   }
 
@@ -46,7 +46,7 @@ body {
   }
 
   .dropdown-content a {
-    color: white;
+    color: black;
   }
 
   .dropdown:hover .dropdown-content {
@@ -77,7 +77,7 @@ body {
     color: white;
   }
 
-  .picture1 {
+  .photograph1 {
     position: relative;
     padding: 0.5em;
     background-color: #fcfcfc;
