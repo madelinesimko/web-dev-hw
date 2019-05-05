@@ -1,0 +1,106 @@
+body {
+    background-color: #CDE8FF;
+  }
+
+  header {
+    position: fixed;
+    top:0px;
+    background-color: #fcfcfc;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: 3.4em;
+    width:100%;
+    text-align: center;
+    font-size: 1em;
+    z-index: 2;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.menu {
+    display: inline-block;
+    text-align: center;
+    background-color: #fcfcfc;
+    padding: 1em;
+  }
+
+  .menu a {
+    color: white;
+    text-decoration: none;
+  }
+
+  .menu:hover {
+    background-color: #0066CC;
+  }
+  .dropdown {
+    display: inline-block;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    margin: 0.5em 0 0 -1em;
+    background-color: #fcfcfc;
+    z-index: 3;
+    min-width: 15em;
+  }
+
+  .dropdown-content a {
+    color: white;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1.0em 0.5em 1.0em;
+    min-width: 5em;
+  }
+
+  .dropdown-item:hover, .dropdown-item:hover a {
+    background-color: #0066CC;
+    color: white;
+  }
+
+  .title {
+    padding: 0.5em;
+    background-color: #fcfcfc;
+    text-align: center;
+    width: 90%;
+    margin-top: 5em;
+    margin-left:5%;
+    border: 15px solid #0066CC;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+  }
+
+  .picture1 {
+    position: relative;
+    padding: 0.5em;
+    background-color: #fcfcfc;
+    text-align: center;
+    width: 50%;
+    margin-top:1em;
+    margin-left: 25%;
+    border: 15px solid #0066CC;
+  }
+
+  .content {
+    position: relative;
+    padding: 0.5em;
+    background-color: #fcfcfc;
+    text-align: center;
+    width: 50%;
+    margin-top:1em;
+    margin-left:25%;
+    border: 15px solid #0066CC;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  textarea {
+    width: 90%;
+    height: 150px;
+  }
